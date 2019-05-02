@@ -1,0 +1,11 @@
+/* Header */
+nav {
+	background-color: black;
+}
+
+/* Pour réduire la hauteur du tableau*/
+.scroller {
+  height: 300px;
+  overflow-y: scroll;
+}
+
